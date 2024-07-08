@@ -1,0 +1,63 @@
+[unknown:unknown] - 06-07-2024 11:00:52 error: Failed to fetch the user details. Reason: TypeError: User.find(...).pretty is not a function
+[unknown:unknown] - 06-07-2024 11:01:28 error: Failed to fetch the user details. Reason: ReferenceError: formattedTestHistory is not defined
+[unknown:unknown] - 06-07-2024 11:21:58 error: UserId 6688bd856d3cb267ec0591a is not valid.
+[unknown:unknown] - 06-07-2024 11:22:26 error: User with userId 6688bd856d3cb267ec0591ad does not exist.
+[unknown:unknown] - 06-07-2024 11:38:14 error: Failed to fetch the posts for user with userId 6688bd856d3cb267ec0591ac. Reason: ReferenceError: Post is not defined
+[unknown:unknown] - 06-07-2024 12:40:52 error: Failed to fetch the posts for user with userId 6688bd856d3cb267ec0591ac. Reason: ReferenceError: Post is not defined
+[unknown:unknown] - 06-07-2024 12:43:49 error: Failed to fetch the posts for user with userId 6688bd856d3cb267ec0591ac. Reason: ReferenceError: Post is not defined
+[unknown:unknown] - 06-07-2024 12:45:11 error: Failed to fetch the posts for user with userId 6688bd856d3cb267ec0591ac. Reason: ReferenceError: Post is not defined
+[unknown:unknown] - 06-07-2024 12:50:49 error: Failed to fetch the posts for user with userId 6688bd856d3cb267ec0591ac. Reason: ReferenceError: Post is not defined
+[filersController.js:73] - 06-07-2024 13:17:10 error: Failed to add category. Reason: message is not defined
+[filersController.js:62] - 06-07-2024 13:17:52 error: Name is required for the category
+[filersController.js:73] - 06-07-2024 13:17:52 error: Failed to add category. Reason: Cannot access 'response' before initialization
+[filersController.js:62] - 06-07-2024 13:18:49 error: Name is required for the category
+[filersController.js:135] - 06-07-2024 13:31:03 error: Name is required for the tag
+[filersController.js:213] - 06-07-2024 14:11:03 error: postId is required for the add post to tag
+[postController.js:11] - 06-07-2024 14:28:43 error: Title, content, author, and category are required fields.
+[postController.js:97] - 06-07-2024 15:03:27 error: Failed to delete post. Reason: post.remove is not a function
+[postController.js:119] - 06-07-2024 15:07:54 error: Post with postId 66890f031199a8b81c1b25da not found
+[unknown:unknown] - 06-07-2024 15:27:46 error: postId time is not valid.
+[unknown:unknown] - 06-07-2024 15:28:22 error: postId time is not valid.
+[filersController.js:213] - 06-07-2024 17:03:01 error: postId is required for the add post to tag
+[postController.js:57] - 06-07-2024 17:03:04 error: Failed to create post. Reason: updateStats is not a function
+[unknown:unknown] - 07-07-2024 09:55:55 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 09:55:55 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 09:55:56 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 09:55:59 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 09:55:59 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 09:55:59 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 09:55:59 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 09:55:59 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 09:55:59 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 09:56:32 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:19 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:19 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:19 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:20 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:20 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:20 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:22 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:23 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:23 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:23 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:23 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:23 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:39 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:39 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:39 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:42 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:42 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:42 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:42 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:42 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:01:42 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:04:11 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:04:11 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:04:11 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:04:13 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:04:13 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:04:13 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:04:13 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:04:13 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 10:04:13 error: Tag with tagId 6688f6fc850ed00aee172883 does not exist.
+[unknown:unknown] - 07-07-2024 18:35:47 error: Authentication failed for user with email: archana@gmail.com

@@ -1,0 +1,48 @@
+/* custom-scrollbar.css */
+
+/* WebKit (Chrome, Safari, etc.) */
+::-webkit-scrollbar {
+  width: 3px; /* width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: #edf2f7; /* color of the track */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #68d391; /* color of the thumb */
+  border-radius: 3px; /* rounded corners of the thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #48bb78; /* color of the thumb on hover */
+}
+
+/* custom-css.css */
+
+/* Styling for custom dot */
+.slick-dots li.slick-active button {
+  background: transparent;
+  border: none;
+  padding: 0;
+  width: 16px; 
+  height: 4px; 
+  position: relative;
+}
+
+.slick-dots li.slick-active button:before {
+  content: ''; /* Empty content */
+  width: 100%;
+  height: 100%;
+  display: block;
+  border-radius: 2px; /* Adjust radius to make it rounded */
+  background-color: #48bb78; /* Replace with your desired color */
+  transform: scale(0.3);
+  transition: transform 0.3s ease;
+}
+
+/* Styling for active dot */
+.slick-dots li.slick-active button:before {
+  background-color: #48bb78; /* Same color as the custom dot */
+  transform: scale(1.2);
+}
